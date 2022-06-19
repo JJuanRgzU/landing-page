@@ -109,3 +109,27 @@ button.sign-up {
     color: grey;
     font-size: 20px;
 }
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background-color: #E5E7EB;
+    align-items: center;
+    color: #1F2937;
+    padding: 150px 25%;
+    min-width: 500px;
+}
+
+.text {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 36px;
+}
+
+.author {
+    font-size: 28px;
+    font-weight: 600;
+    color: #1F2937;
+    align-self: flex-end;
+}
